@@ -1,0 +1,33 @@
+body
+{
+  background-color: #25587E;
+  font-family: Arial,Helvetica,sans-serif;
+}
+
+#content
+{
+  height: 200px;
+  width: 400px;
+  background-color: #82CAFA;
+  margin: 0 auto;
+  margin-top: 50px;
+  border: 2px solid #302217;
+}
+
+#name
+{
+  padding-top: 30px;
+  color: #302217;
+}
+
+.center_text
+{
+    text-align:center;
+}
+
+.icon
+{
+    height: 50px;
+    width: 50px;
+}
+
