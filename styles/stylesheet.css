@@ -22,14 +22,19 @@ body
 
 #social_media_icons
 {
-  width: 125px;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 .center_text
 {
     text-align:center;
+}
+
+.img_link
+{
+  border: 0;
 }
 
 
