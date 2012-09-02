@@ -20,14 +20,17 @@ body
   color: #302217;
 }
 
+#social_media_icons
+{
+  width: 125px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .center_text
 {
     text-align:center;
 }
 
-.icon
-{
-    height: 50px;
-    width: 50px;
-}
+
 
