@@ -5,6 +5,11 @@ body {
 
 a {
   color: #215E21;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 #wrapper {
@@ -45,11 +50,6 @@ a {
 
 #nav a {
   padding: 10px;
-  text-decoration: none;
-}
-
-#nav a:hover {
-  text-decoration: underline;
 }
 
 .separator{
