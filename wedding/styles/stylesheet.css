@@ -72,9 +72,10 @@ p.small_text {
 #content {
   margin-right: auto;
   margin-left: auto;
+  margin-top: 30px;
   color: #215E21;
   text-align: center;
-  font-size: 150%;
+  font-size: 120%;
 }
 
 #content img {
