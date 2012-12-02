@@ -8,8 +8,16 @@ a {
   text-decoration: none;
 }
 
+a.underline {
+  text-decoration: underline;
+}
+
 a:hover {
   text-decoration: underline;
+}
+
+p.small_text {
+  font-size: 80%;
 }
 
 #wrapper {
